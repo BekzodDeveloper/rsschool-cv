@@ -1,1 +1,1 @@
-# [rsschool-cv](https://github.com/BekzodDeveloper/rsschool-cv/cv)
+# [rsschool-cv](https://bekzoddeveloper.github.io/rsschool-cv/cv)
